@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/manavc1303-cell/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
@@ -28,4 +29,5 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
