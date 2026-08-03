@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/manavc1303-cell/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
