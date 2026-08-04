@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/manavc1303-cell/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
