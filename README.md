@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/manavc1303-cell/LeetCode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/manavc1303-cell/LeetCode/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
