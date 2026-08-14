@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/manavc1303-cell/LeetCode/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manavc1303-cell/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manavc1303-cell/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/manavc1303-cell/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0162-find-peak-element](https://github.com/manavc1303-cell/LeetCode/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manavc1303-cell/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manavc1303-cell/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/manavc1303-cell/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
