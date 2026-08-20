@@ -66,8 +66,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
