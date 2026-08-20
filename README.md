@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
