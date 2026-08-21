@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -75,4 +77,5 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
