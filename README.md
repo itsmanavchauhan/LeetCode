@@ -29,6 +29,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0014-longest-common-prefix](https://github.com/manavc1303-cell/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +80,17 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/manavc1303-cell/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manavc1303-cell/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manavc1303-cell/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
