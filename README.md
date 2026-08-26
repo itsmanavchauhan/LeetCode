@@ -108,6 +108,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/manavc1303-cell/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manavc1303-cell/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manavc1303-cell/LeetCode/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manavc1303-cell/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manavc1303-cell/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
