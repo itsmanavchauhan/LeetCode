@@ -10,16 +10,13 @@ public:
                 if (st.empty()) {
                     return false;
                 }
-                if (s[i] == ')' && st.top()!= '(') {
+                char ch=st.top() ;
+                if (s[i] == ')' && ch== '(' || s[i] == '}' && ch== '{' || s[i] == ']' && ch== '[') {
+                    st.pop();
+                }
+                else {
                     return false;
                 }
-                if (s[i] == '}' && st.top()!= '{') {
-                    return false;
-                }
-                if (s[i] == ']' && st.top()!= '[') {
-                    return false;
-                }
-                st.pop();
             }
         }
         return st.empty();
