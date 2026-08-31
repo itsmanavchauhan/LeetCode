@@ -19,6 +19,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manavc1303-cell/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manavc1303-cell/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/manavc1303-cell/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -121,6 +122,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/manavc1303-cell/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manavc1303-cell/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manavc1303-cell/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -156,4 +158,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
