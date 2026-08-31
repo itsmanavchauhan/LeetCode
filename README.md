@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manavc1303-cell/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/manavc1303-cell/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manavc1303-cell/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/manavc1303-cell/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/manavc1303-cell/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manavc1303-cell/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/manavc1303-cell/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/manavc1303-cell/LeetCode/tree/master/0509-fibonacci-number) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manavc1303-cell/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/manavc1303-cell/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manavc1303-cell/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manavc1303-cell/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -156,6 +160,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
