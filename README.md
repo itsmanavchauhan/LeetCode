@@ -26,6 +26,7 @@
 | [1539-kth-missing-positive-number](https://github.com/manavc1303-cell/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manavc1303-cell/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/manavc1303-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manavc1303-cell/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manavc1303-cell/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/manavc1303-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -166,4 +168,5 @@
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manavc1303-cell/LeetCode/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/manavc1303-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
