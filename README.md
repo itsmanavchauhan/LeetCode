@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manavc1303-cell/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/manavc1303-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manavc1303-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -36,6 +37,7 @@
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/manavc1303-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manavc1303-cell/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/manavc1303-cell/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/manavc1303-cell/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manavc1303-cell/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/manavc1303-cell/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/manavc1303-cell/LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
