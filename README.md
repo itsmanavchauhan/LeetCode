@@ -158,6 +158,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/manavc1303-cell/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manavc1303-cell/LeetCode/tree/master/0402-remove-k-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
