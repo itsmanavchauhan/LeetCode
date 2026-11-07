@@ -38,6 +38,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/manavc1303-cell/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manavc1303-cell/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/manavc1303-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/manavc1303-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manavc1303-cell/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/manavc1303-cell/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manavc1303-cell/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/manavc1303-cell/LeetCode/tree/master/0206-reverse-linked-list) |
